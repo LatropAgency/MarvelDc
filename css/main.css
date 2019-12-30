@@ -24,6 +24,12 @@ footer .soc {
 	justify-content: space-around;
 	width: 250px;
 }
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
 .grey {
 	padding-top: 20px;
 	background-color: #141414;
@@ -61,9 +67,6 @@ footer .soc {
 .container {
 	margin: auto;
 	max-width: 1440px;
-}
-.headline {
-	background-color: red;
 }
 .logo {
 	flex: 1;
