@@ -16,6 +16,7 @@
 		justify-content: space-between;
 	}
 }
+
 @media (min-device-width: 500px)and (max-device-width: 675px) {
 	ul#nav {
 		justify-content: space-around;
