@@ -104,7 +104,7 @@ img.marvel {
 	display: block;
 }
 #menu {
-	display: flex;
+	display: none;
 	position: relative;
 	flex-direction: column;
 	width: 50px;
